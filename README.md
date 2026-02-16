@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm yordanos mulugeta</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h3 align="center">A passionate full stack developer from Ethiopia</h3>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHx5uXbK0GQVIUKUMPs8Bsxuv2aPcdlBqbeg&s" alt="yordimul" />
 
 
