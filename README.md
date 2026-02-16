@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yordimul&label=Profile%20views&color=0e75b6&style=flat" alt="yordimul" /> </p>
 
-- 💬 Ask me about **react,node.js,express.js**
+- 💬 Ask me about **react,NEXT,node.js,express.js**
 
 - 📫 How to reach me **yordanosm44@gmail.com**
 
