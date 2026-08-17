@@ -54,14 +54,15 @@ I'm a full-stack developer specializing in building fast, polished, and highly i
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=yordimul&show_icons=true&theme=radial&locale=en" alt="Yordanos's GitHub stats" height="180" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=yordimul&show_icons=true&theme=radial&layout=compact" alt="Top languages" height="180" />
+<img src="https://vercel.app" alt="Yordanos's GitHub stats" height="180" />
+<img src="https://vercel.app" alt="Top languages" height="180" />
 
-<img src="https://vercel.app" alt="GitHub streak stats" />
+<img src="https://demolab.com" alt="GitHub streak stats" />
 
 </div>
 
 ---
+
 
 
 ## 🌐 Connect with Me
