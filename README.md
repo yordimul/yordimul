@@ -6,6 +6,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yordi-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yordanos-mulugeta)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yordanosm44@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Yordimul)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yordimul&label=Profile%20Views&color=0e75b6&style=flat)
 
@@ -55,10 +56,10 @@ I'm a full-stack developer specializing in building fast, polished, and highly i
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yordimul&show_icons=true&theme=radial&locale=en" alt="Yordanos's GitHub stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yordimul&show_icons=true&theme=radial&layout=compact" alt="Top languages" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=yordimul&show_icons=true&theme=radial&locale=en&cache_seconds=1800" alt="Yordanos's GitHub stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yordimul&show_icons=true&theme=radial&layout=compact&cache_seconds=1800" alt="Top languages" height="180" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yordimul&theme=radial" alt="GitHub streak stats" />
+<img src="https://streak-stats.demolab.com/?user=yordimul&theme=radial" alt="GitHub streak stats" />
 
 </div>
 
@@ -70,8 +71,8 @@ I'm a full-stack developer specializing in building fast, polished, and highly i
   <a href="https://linkedin.com/in/yordanos-mulugeta" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/yorda_1176" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <a href="https://t.me/Yordimul" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="30" width="40" />
   </a>
 </p>
 
