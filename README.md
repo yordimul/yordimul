@@ -50,20 +50,19 @@ I'm a full-stack developer specializing in building fast, polished, and highly i
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yordimul&show_icons=true&theme=radial&locale=en&cache_seconds=1800" alt="Yordanos's GitHub stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yordimul&show_icons=true&theme=radial&layout=compact&cache_seconds=1800" alt="Top languages" height="180" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=yordimul&show_icons=true&theme=radial&locale=en" alt="Yordanos's GitHub stats" height="180" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=yordimul&show_icons=true&theme=radial&layout=compact" alt="Top languages" height="180" />
 
-<img src="https://streak-stats.demolab.com/?user=yordimul&theme=radial" alt="GitHub streak stats" />
+<img src="https://vercel.app" alt="GitHub streak stats" />
 
 </div>
 
 ---
+
 
 ## 🌐 Connect with Me
 
