@@ -1,97 +1,82 @@
-<h1 align="center">Hi 👋, I'm Yordanos Mulugeta</h1>
-<h3 align="center">Full-Stack & Frontend Developer from Ethiopia</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://yordi-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
-  </a>
-</p>
+# Hi, I'm Yordanos Mulugeta 👋
+### Full-Stack & Frontend Developer | Ethiopia 🇪🇹
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yordimul&label=Profile%20views&color=0e75b6&style=flat" alt="yordimul profile views" />
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yordi-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yordanos-mulugeta)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yordanosm44@gmail.com)
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=yordimul&label=Profile%20Views&color=0e75b6&style=flat)
 
-### 🚀 About Me
-- 🔭 **Current Focus:** Building high-performance single-page web applications with **React 18**, **Next.js**, and modern animation libraries (**GSAP**, **React-Spring**).
-- 🛠️ **Experience:** Full-stack development across MERN stack architectures, client UI engineering, and database management systems.
-- 💬 **Ask me about:** React, Next.js, Sass, Node.js, Express, and UI/UX animations.
-- 📫 **How to reach me:** [yordanosm44@gmail.com](mailto:yordanosm44@gmail.com)
+</div>
 
 ---
 
-### 🧰 Tech Stack & Tools
+## 🚀 About Me
 
-<p align="left">
-  <!-- Frontend -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  
-  <!-- Backend & Database -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  
-  <!-- Tools -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-</p>
+I'm a full-stack developer specializing in building fast, polished, and highly interactive web applications. My core focus is the MERN stack, with a particular interest in crafting fluid, animation-driven user interfaces.
+
+- 🔭 **Currently building:** high-performance single-page applications with **React 18**, **Next.js**, and animation libraries like **GSAP** and **React Spring**
+- 🛠️ **Core expertise:** full-stack development across the MERN stack — client-side UI engineering, REST API design, and database architecture
+- 🌱 **Always learning:** advanced animation techniques and scalable frontend architecture patterns
+- 💬 **Happy to discuss:** React, Next.js, Sass, Node.js, Express, and UI/UX motion design
+- 📫 **Reach me at:** [yordanosm44@gmail.com](mailto:yordanosm44@gmail.com)
 
 ---
 
-### 🌐 Connect with Me
+## 🧰 Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yordimul&show_icons=true&theme=radial&locale=en" alt="Yordanos's GitHub stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yordimul&show_icons=true&theme=radial&layout=compact" alt="Top languages" height="180" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yordimul&theme=radial" alt="GitHub streak stats" />
+
+</div>
+
+---
+
+## 🌐 Connect with Me
+
 <p align="left">
   <a href="https://linkedin.com/in/yordanos-mulugeta" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yordanos mulugeta" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://instagram.com/yorda_1176" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yorda_1176" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
----
+<div align="center">
 
-### 📊 GitHub Statistics
+*Thanks for stopping by — feel free to explore my repositories and reach out!*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yordimul&show_icons=true&theme=radial&locale=en" alt="yordimul stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yordimul&show_icons=true&theme=radial&layout=compact" alt="yordimul top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yordimul&theme=radial" alt="yordimul streak" />
-</p>
+</div>
